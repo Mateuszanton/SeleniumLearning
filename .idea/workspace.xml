@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dd06fba-d516-45ae-88b4-b577107b582b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Kodowanie_nauka/ArtifactUdemyKursJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kodowanie_nauka/ArtifactUdemyKursJava/src/main/java/Folder/Klasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumTestingLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/Chapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/BestPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/Chapter2Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/UsingPageFactories/PageFactoriesWithPageObjectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/BestPractises3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/Chapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/ChromeDriverUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/FirefoxWithFireBugFirstRunPageAvoidance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/IEDriverUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/InstallingAddonOnChromeThenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/BasicTestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByClassNameUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByCssSelectorUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByIdUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByLinkTextUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByNameUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByXPathUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByClassNameUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByCssSelectorUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByLinkTextUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByNameUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByXPathUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsbyIdUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/FidingIfElementNotExistsWithoutThrowingAnException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingExplicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingImplicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/Chapter2UsingPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/LoadableComponentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2Improvement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2Improved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SeleniumLearning$BestPractices.ic" NAME="BestPractices Coverage Results" MODIFIED="1532815769816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-786090615">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="85" />
+          <entry key="java" value="7459" />
+          <entry key="xml" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7459" />
+          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="XML" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="90" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="90" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SeleniumLearning" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/UsingPageFactories/PageFactoriesWithPageObjectsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2Improvement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2Improved.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/Chapter2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/Chapter2UsingPageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding>
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/LoadableComponentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>łń</find>
+      <find>ex</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/BestPractices3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/Chapter2Testing.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/BestPractices.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/UsingPageFactories/PageFactoriesWithPageObjects.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/UsingPageFactories/PageFactoriesWithPageObjectsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/Chapter2Testing.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/FirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/BestPractices.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/BestPractises3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/HomePage0.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/Chapter2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageObjects/Chapter2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2KASZTANKIURAWDFSFG.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2Improvement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/PageObjectExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/LoadableComponentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/Chapter2UsingPageObject.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/BasicTestExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByIdUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByNameUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsbyIdUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByNameUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByXPathUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByXPathUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByClassNameUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByLinkTextUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByClassNameUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByLinkTextUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByCssSelectorUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByCssSelectorUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/FidingIfElementExistsWithoutThrowingAnException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/FidingIfElementNotExistsWithoutThrowingAnException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingImplicitWaits.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingExplicitWaits.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsagechapter6/ChromeDriverUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsagechapter6/FirefoxWithFireBugFirstRunPageAvoidance.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsagechapter6/InstallingAddonOnChromeThenTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/InstallingAddonOnChromeThenTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/FirefoxWithFireBugFirstRunPageAvoidance.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverUsage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/IEDriverUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2Improved.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SeleniumLearning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SeleniumLearning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SeleniumLearning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3027" />
+    <option name="y" value="-35" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="differentWebBrowserDriverUsageChapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="loadableComponent81" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="pageFactoryUsage78" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="UsingPageFactories" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536000719655" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testPackage.pageFactoryUsage78" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.IEDriverUsage">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeDriverUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.differentWebBrowserDriverUsageChapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6.ChromeDriverUsage" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirefoxWithFireBugFirstRunPageAvoidance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.differentWebBrowserDriverUsageChapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6.FirefoxWithFireBugFirstRunPageAvoidance" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IEDriverUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.differentWebBrowserDriverUsageChapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6.IEDriverUsage" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperaDriverGeolocationDisabling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.differentWebBrowserDriverUsageChapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6.OperaDriverGeolocationDisabling" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperaDriverUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.differentWebBrowserDriverUsageChapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6.OperaDriverUsage" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ChromeDriverUsage" />
+      <item itemvalue="JUnit.OperaDriverUsage" />
+      <item itemvalue="JUnit.OperaDriverGeolocationDisabling" />
+      <item itemvalue="JUnit.IEDriverUsage" />
+      <item itemvalue="JUnit.FirefoxWithFireBugFirstRunPageAvoidance" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IEDriverUsage" />
+        <item itemvalue="JUnit.OperaDriverGeolocationDisabling" />
+        <item itemvalue="JUnit.FirefoxWithFireBugFirstRunPageAvoidance" />
+        <item itemvalue="JUnit.OperaDriverUsage" />
+        <item itemvalue="JUnit.ChromeDriverUsage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dd06fba-d516-45ae-88b4-b577107b582b" name="Default" comment="" />
+      <created>1532723714985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532723714985</updated>
+      <workItem from="1535566135728" duration="7524000" />
+      <workItem from="1535655816588" duration="9911000" />
+      <workItem from="1535741473673" duration="2412000" />
+      <workItem from="1535792666911" duration="13194000" />
+      <workItem from="1535819212995" duration="2175000" />
+      <workItem from="1535821484550" duration="1427000" />
+      <workItem from="1535887885382" duration="5324000" />
+      <workItem from="1535901783739" duration="6272000" />
+      <workItem from="1535910073753" duration="356000" />
+      <workItem from="1535910646574" duration="2145000" />
+      <workItem from="1535913251265" duration="2048000" />
+      <workItem from="1535915552600" duration="643000" />
+      <workItem from="1535917148912" duration="3501000" />
+      <workItem from="1535921500210" duration="1145000" />
+      <workItem from="1535998849608" duration="336000" />
+      <workItem from="1535999526337" duration="571000" />
+      <workItem from="1536000146307" duration="154000" />
+      <workItem from="1536000487223" duration="228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="IEDriverUsage - 2018.09.02 at 22h 54m 12s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.02 at 22h 54m 25s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.02 at 23h 04m 36s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.02 at 23h 06m 03s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.03 at 20h 32m 21s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.03 at 20h 33m 05s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.03 at 20h 34m 41s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.03 at 20h 36m 03s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.03 at 20h 48m 59s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IEDriverUsage - 2018.09.03 at 20h 50m 08s.xml">
+      <configuration name="IEDriverUsage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.304371" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5019685" side_tool="true" weight="0.29154727" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23644252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37852496" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.26066098" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295129" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10812">
+          <caret line="636" selection-start-line="636" selection-end-line="636" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.13.0/selenium-remote-driver-3.13.0.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/BestPractices3.java" />
+    <entry file="file://$PROJECT_DIR$/SeleniumTestingLearning.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.13.0/selenium-chrome-driver-3.13.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2KASZTANKIURAWDFSFG.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/FirstTests/BestPractices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/BestPractises3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/Chapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/HomePage0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/FirstTests/FirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/FirstTests/Chapter2Testing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="45" column="79" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.13.0/selenium-support-3.13.0.jar!/org/openqa/selenium/support/ui/LoadableComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByNameUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsbyIdUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="14" selection-start-line="14" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByXPathUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByXPathUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByClassNameUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" selection-start-line="11" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByLinkTextUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByLinkTextUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByNameUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByCssSelectorUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByClassNameUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" selection-start-line="13" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByCssSelectorUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/BasicTestExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/FidingIfElementNotExistsWithoutThrowingAnException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingImplicitWaits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingExplicitWaits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="40" column="83" lean-forward="true" selection-start-line="40" selection-start-column="83" selection-end-line="40" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByIdUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/ChromeDriverUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/FirefoxWithFireBugFirstRunPageAvoidance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" column="108" lean-forward="true" selection-start-line="23" selection-start-column="108" selection-end-line="23" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/IEDriverUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/InstallingAddonOnChromeThenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/UsingPageFactories/PageFactoriesWithPageObjectsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/Chapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/Chapter2UsingPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/LoadableComponentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2Improvement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2Improved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>chromedriver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SeleniumTestingLearning</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean:install" />
+  </component>
+</project>
