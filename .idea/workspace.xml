@@ -1,50 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd06fba-d516-45ae-88b4-b577107b582b" name="Default" comment="">
+    <list default="true" id="8dd06fba-d516-45ae-88b4-b577107b582b" name="Default" comment="init element">
       <change afterPath="$PROJECT_DIR$/../Kodowanie_nauka/ArtifactUdemyKursJava/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Kodowanie_nauka/ArtifactUdemyKursJava/src/main/java/Folder/Klasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumTestingLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/Chapter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/BestPractices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/Chapter2Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/UsingPageFactories/PageFactoriesWithPageObjectsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/BestPractises3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/Chapter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/ChromeDriverUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/FirefoxWithFireBugFirstRunPageAvoidance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/IEDriverUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/InstallingAddonOnChromeThenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/BasicTestExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByClassNameUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByCssSelectorUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByIdUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByLinkTextUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByNameUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementByXPathUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByClassNameUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByCssSelectorUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByLinkTextUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByNameUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsByXPathUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/FindElementsbyIdUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/FidingIfElementNotExistsWithoutThrowingAnException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingExplicitWaits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingImplicitWaits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/Chapter2UsingPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/loadableComponent81/LoadableComponentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/Chapter2Improvement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2Improved.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
@@ -53,6 +12,8 @@
       <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Zadania od Błażeja/1/solid_exercise/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -91,13 +52,14 @@
         <counts>
           <entry key="dummy" value="85" />
           <entry key="java" value="7459" />
+          <entry key="txt" value="12" />
           <entry key="xml" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="7459" />
-          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="PLAIN_TEXT" value="97" />
           <entry key="XML" value="54" />
         </counts>
       </usages-collector>
@@ -152,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2Improved.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="316">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
@@ -244,7 +206,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -346,6 +308,327 @@
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Batch Applications</id>
+          </State>
+          <State>
+            <id>Bidirectional TextInternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Chrome OSCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>FinalizationJava</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 10Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Method metricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Play</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Reactor</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>TypographyUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -441,12 +724,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536000719655" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536001771621" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -605,8 +888,16 @@
       <workItem from="1535998849608" duration="336000" />
       <workItem from="1535999526337" duration="571000" />
       <workItem from="1536000146307" duration="154000" />
-      <workItem from="1536000487223" duration="228000" />
+      <workItem from="1536000487223" duration="1272000" />
     </task>
+    <task id="LOCAL-00001" summary="init element">
+      <created>1536000754957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536000754957</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -642,7 +933,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59444000" />
+    <option name="totallyTimeSpent" value="60410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -656,13 +947,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23644252" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23644252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37852496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292683" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.23644252" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -683,6 +974,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init element" />
+    <option name="LAST_COMMIT_MESSAGE" value="init element" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
@@ -1003,8 +1298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/pageFactoryUsage78/TestChapter2Improved.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="316">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#371#372#0" expanded="true" />
