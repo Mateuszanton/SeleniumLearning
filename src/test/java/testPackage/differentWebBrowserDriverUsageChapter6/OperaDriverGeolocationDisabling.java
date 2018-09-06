@@ -1,6 +1,5 @@
 package testPackage.differentWebBrowserDriverUsageChapter6;
 
-import com.sun.javaws.OperaPreferences;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
@@ -20,7 +19,7 @@ public class OperaDriverGeolocationDisabling {
     @Before
     public void setUp() {
         OperaOptions options = new OperaOptions();
-        options.addArguments("--disable-search-geolocation-disclosure ⊗");
+        options.addArguments("--disable-search-geolocation-disclosure");
         options.addArguments("--start-maximized"); //same switches as chromedriver addArguments
         options.setBinary("C:\\Program Files\\Opera\\55.0.2994.44\\opera.exe");
         driver = new OperaDriver(options);
