@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd06fba-d516-45ae-88b4-b577107b582b" name="Default" comment="first push">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropOnTheElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/das.java" afterDir="false" />
+    <list default="true" id="8dd06fba-d516-45ae-88b4-b577107b582b" name="Default" comment="some selenium scripts">
       <change beforePath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,7 +45,7 @@
         <counts>
           <entry key="dummy" value="102" />
           <entry key="java" value="9278" />
-          <entry key="txt" value="22" />
+          <entry key="txt" value="43" />
           <entry key="url" value="1" />
           <entry key="xml" value="54" />
         </counts>
@@ -57,7 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="9278" />
-          <entry key="PLAIN_TEXT" value="125" />
+          <entry key="PLAIN_TEXT" value="146" />
           <entry key="XML" value="54" />
         </counts>
       </usages-collector>
@@ -99,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="442">
+              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#879#880#0" expanded="true" />
@@ -627,7 +623,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536267981841" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536268309896" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -797,7 +793,7 @@
       <workItem from="1536079618571" duration="9000" />
       <workItem from="1536079659523" duration="1208000" />
       <workItem from="1536087889206" duration="708000" />
-      <workItem from="1536257057827" duration="9763000" />
+      <workItem from="1536257057827" duration="10046000" />
     </task>
     <task id="LOCAL-00001" summary="init element">
       <created>1536000754957</created>
@@ -849,7 +845,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72396000" />
+    <option name="totallyTimeSpent" value="72679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -895,7 +891,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init element" />
     <MESSAGE value="first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="first push" />
+    <MESSAGE value="some selenium scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="some selenium scripts" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
@@ -1249,8 +1246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state relative-caret-position="442">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#879#880#0" expanded="true" />
