@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd06fba-d516-45ae-88b4-b577107b582b" name="Default" comment="some selenium scripts">
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/contextMenu/ContentClickUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/selecting/SelectingMultipleListItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/SeleniumSetupEnvironemnt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testPackage/differentWebBrowserDriverUsageChapter6/OperaDriverGeolocationDisabling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,7 +46,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="102" />
-          <entry key="java" value="9278" />
+          <entry key="java" value="10009" />
           <entry key="txt" value="43" />
           <entry key="url" value="1" />
           <entry key="xml" value="54" />
@@ -52,7 +54,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9278" />
+          <entry key="JAVA" value="10009" />
           <entry key="PLAIN_TEXT" value="146" />
           <entry key="XML" value="54" />
         </counts>
@@ -60,7 +62,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="105" />
+          <entry key="java" value="108" />
           <entry key="url" value="1" />
           <entry key="xml" value="6" />
         </counts>
@@ -68,7 +70,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="105" />
+          <entry key="JAVA" value="108" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="6" />
         </counts>
@@ -92,16 +94,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="425">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#879#880#0" expanded="true" />
                 <element signature="e#908#909#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/contextMenu/ContentClickUsage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/selecting/SelectingMultipleListItems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingExplicitWaits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -127,9 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/FirstTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testPackage/FirstTests/BestPractices.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/BestPractises3.java" />
         <option value="$PROJECT_DIR$/src/test/java/testPackage/designPatternsPage76/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageObjects/HomePage0.java" />
@@ -178,6 +210,9 @@
         <option value="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDrop.java" />
         <option value="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropOnTheElement.java" />
         <option value="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/contextMenu/ContentClickUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/contextMenu/ContentClickUsage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/selecting/SelectingMultipleListItems.java" />
       </list>
     </option>
   </component>
@@ -602,16 +637,6 @@
               <item name="testPackage" type="462c0819:PsiDirectoryNode" />
               <item name="advancedUserInteractionsChapter9" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SeleniumLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumTestingLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testPackage" type="462c0819:PsiDirectoryNode" />
-              <item name="advancedUserInteractionsChapter9" type="462c0819:PsiDirectoryNode" />
-              <item name="actionChain" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -623,7 +648,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536268309896" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536271332429" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -647,9 +672,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DragAndDropByOffset">
+  <component name="RunManager" selected="JUnit.SelectingMultipleListItems">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentClickUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.advancedUserInteractionsChapter9.contextMenu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage.advancedUserInteractionsChapter9.contextMenu" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.advancedUserInteractionsChapter9.contextMenu.ContentClickUsage" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -701,31 +741,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IEDriverUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectingMultipleListItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testPackage.differentWebBrowserDriverUsageChapter6.*" />
+          <option name="PATTERN" value="testPackage.advancedUserInteractionsChapter9.selecting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6" />
-      <option name="MAIN_CLASS_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6.IEDriverUsage" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperaDriverGeolocationDisabling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testPackage.differentWebBrowserDriverUsageChapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6" />
-      <option name="MAIN_CLASS_NAME" value="testPackage.differentWebBrowserDriverUsageChapter6.OperaDriverGeolocationDisabling" />
+      <option name="PACKAGE_NAME" value="testPackage.advancedUserInteractionsChapter9.selecting" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.advancedUserInteractionsChapter9.selecting.SelectingMultipleListItems" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -746,19 +771,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.OperaDriverGeolocationDisabling" />
-      <item itemvalue="JUnit.IEDriverUsage" />
       <item itemvalue="JUnit.DragAndDropOnTheElement" />
       <item itemvalue="JUnit.DragAndDropOnTheElement.shouldDragElementsToTheBox" />
       <item itemvalue="JUnit.DragAndDropByOffset" />
+      <item itemvalue="JUnit.ContentClickUsage" />
+      <item itemvalue="JUnit.SelectingMultipleListItems" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SelectingMultipleListItems" />
+        <item itemvalue="JUnit.ContentClickUsage" />
         <item itemvalue="JUnit.DragAndDropByOffset" />
         <item itemvalue="JUnit.DragAndDropOnTheElement.shouldDragElementsToTheBox" />
         <item itemvalue="JUnit.DragAndDropOnTheElement" />
-        <item itemvalue="JUnit.OperaDriverGeolocationDisabling" />
-        <item itemvalue="JUnit.IEDriverUsage" />
       </list>
     </recent_temporary>
   </component>
@@ -793,7 +818,7 @@
       <workItem from="1536079618571" duration="9000" />
       <workItem from="1536079659523" duration="1208000" />
       <workItem from="1536087889206" duration="708000" />
-      <workItem from="1536257057827" duration="10046000" />
+      <workItem from="1536257057827" duration="13091000" />
     </task>
     <task id="LOCAL-00001" summary="init element">
       <created>1536000754957</created>
@@ -809,49 +834,56 @@
       <option name="project" value="LOCAL" />
       <updated>1536001882063</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some selenium scripts">
+      <created>1536268366828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536268366828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DragAndDrop_shouldDragElementsToTheBox - 2018.09.06 at 22h 42m 33s.xml">
-      <configuration name="DragAndDrop.shouldDragElementsToTheBox" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DragAndDropOnTheElement_shouldDragElementsToTheBox - 2018.09.06 at 22h 52m 20s.xml">
-      <configuration name="DragAndDropOnTheElement.shouldDragElementsToTheBox" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 22h 52m 30s.xml">
+    <history-entry file="DragAndDropByOffset - 2018.09.06 at 23h 16m 38s.xml">
       <configuration name="DragAndDropByOffset" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 22h 52m 42s.xml">
+    <history-entry file="DragAndDropByOffset - 2018.09.06 at 23h 17m 34s.xml">
       <configuration name="DragAndDropByOffset" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 22h 53m 08s.xml">
+    <history-entry file="DragAndDropByOffset - 2018.09.06 at 23h 17m 57s.xml">
       <configuration name="DragAndDropByOffset" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 22h 53m 36s.xml">
+    <history-entry file="DragAndDropByOffset - 2018.09.06 at 23h 18m 13s.xml">
       <configuration name="DragAndDropByOffset" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 22h 54m 15s.xml">
+    <history-entry file="DragAndDropByOffset - 2018.09.06 at 23h 18m 32s.xml">
       <configuration name="DragAndDropByOffset" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 22h 57m 29s.xml">
-      <configuration name="DragAndDropByOffset" configurationId="JUnit" />
+    <history-entry file="ContentClickUsage - 2018.09.06 at 23h 29m 05s.xml">
+      <configuration name="ContentClickUsage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 22h 57m 42s.xml">
-      <configuration name="DragAndDropByOffset" configurationId="JUnit" />
+    <history-entry file="ContentClickUsage - 2018.09.06 at 23h 33m 15s.xml">
+      <configuration name="ContentClickUsage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DragAndDropByOffset - 2018.09.06 at 23h 01m 29s.xml">
-      <configuration name="DragAndDropByOffset" configurationId="JUnit" />
+    <history-entry file="ContentClickUsage - 2018.09.06 at 23h 44m 52s.xml">
+      <configuration name="ContentClickUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContentClickUsage - 2018.09.07 at 00h 00m 39s.xml">
+      <configuration name="ContentClickUsage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectingMultipleListItems - 2018.09.07 at 00h 01m 33s.xml">
+      <configuration name="SelectingMultipleListItems" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72679000" />
+    <option name="totallyTimeSpent" value="75724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.31503198" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.31503198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -860,7 +892,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23644252" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23644252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37852496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -894,21 +926,19 @@
     <MESSAGE value="some selenium scripts" />
     <option name="LAST_COMMIT_MESSAGE" value="some selenium scripts" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/selecting/SelectingMultipleListItems.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10812">
-          <caret line="636" selection-start-line="636" selection-end-line="636" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.13.0/selenium-remote-driver-3.13.0.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/BestPractices3.java" />
     <entry file="file://$PROJECT_DIR$/SeleniumTestingLearning.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1058,13 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingExplicitWaits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="40" column="83" lean-forward="true" selection-start-line="40" selection-start-column="83" selection-end-line="40" selection-end-column="83" />
         </state>
       </provider>
     </entry>
@@ -1246,12 +1269,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/actionChain/DragAndDropByOffset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="425">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#879#880#0" expanded="true" />
             <element signature="e#908#909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/findingElementsChapter5/tipsAndTricks/WaitingForElementsToAppearOnThePageUsingExplicitWaits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/contextMenu/ContentClickUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testPackage/advancedUserInteractionsChapter9/selecting/SelectingMultipleListItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

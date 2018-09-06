@@ -32,11 +32,8 @@ public class DragAndDropByOffset {
     @Test
     public void shouldDragAndDropToXY() {
         WebElement dragItem = driver.findElement(By.id("one"));
-        WebElement dragBin = driver.findElement(By.id("bin"));
-        int a = dragBin.getLocation().getX();
-        int b = dragBin.getLocation().getY();
         Actions builder = new Actions(driver);
-        builder.dragAndDropBy(dragItem, a, b).
+        builder.dragAndDropBy(dragItem, -250, 75). //moving element by X
                 build().
                 perform();
     }
