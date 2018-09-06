@@ -30,7 +30,7 @@ public class SelectingMultipleListItems {
     @Test
     public void shouldSelectMultipleItemsOnTheList() {
         WebElement wholeList = driver.findElement(By.id("classification"));
-        List <WebElement> options = wholeList.findElements(By.tagName("option"));
+        List<WebElement> options = wholeList.findElements(By.tagName("option"));
 
         Actions builder = new Actions(driver);
         builder.keyDown(Keys.SHIFT)
